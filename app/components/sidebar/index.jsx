@@ -50,7 +50,12 @@ function Sidebar() {
         <div className="flex items-center justify-between">
           <img
             className=" w-fit h-10 cursor-pointer"
-            src="/previewlogo.png"
+            src="/dev_sriwararak.webp"
+            alt="Logo"
+          />
+          <img
+            className=" w-[150px]  h-5 cursor-pointer"
+            src="/dev_detail.png"
             alt="Logo"
           />
           <FaAlignJustify
